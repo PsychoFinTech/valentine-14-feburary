@@ -13,13 +13,6 @@ This repo contains a lightweight, interactive Valentine-themed web experience. W
 - 💘 Lovey‑dovey interactive UI  
 - 🛠 Minimal dependencies — just raw HTML/CSS/JS
 
-## 🛠 Folder Structure
-
-├── index.html # Main UI page
-├── style.css # Styles
-├── app.js # Interaction logic
-├── audio.mp3 # Background or event audio
-├── customize.json # Configurable content
 
 ## 📦 Run It Locally
 
